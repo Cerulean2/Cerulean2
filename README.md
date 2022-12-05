@@ -5,9 +5,6 @@
   <a href="https://discord.com/users/856298738044895312">
     <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
    
 </div>
 <img src="https://komarev.com/ghpvc/?username=Cerulean2&style=flat-square&color=blue" alt=""/>
