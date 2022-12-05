@@ -19,10 +19,10 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm a student learning more about Python and other programming languages
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring modern Cybersecurity practices and applications
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I make small programs with Python and explore new libraries I haven't used yet to challenge myself!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=discord&logoColor=white)]([your-linkedin-url](https://discord.com/users/856298738044895312))
