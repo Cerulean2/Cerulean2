@@ -9,8 +9,8 @@
 
   
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  howdy folks
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30px"/>
 </h1>
 
   <div align="center">
