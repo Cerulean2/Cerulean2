@@ -9,7 +9,7 @@
 
   
 <h1>
-  hey there
+  howdy pardner
   <img src="https://media.giphy.com/media/dcNiFw3ljdd1ajdtTH/giphy.gif" width="40px"/>
 </h1>
 
