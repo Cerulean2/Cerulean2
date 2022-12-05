@@ -19,10 +19,9 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I'm a student learning more about Python and other programming languages
+ :telescope: I'm a student learning more about Python and other programming languages
 
-- :seedling: Exploring modern Cybersecurity practices and applications
+ :seedling: Exploring modern Cybersecurity practices and applications
 
-- :zap: In my free time, I make small programs with Python and explore new libraries I haven't used yet to challenge myself!
+ :zap: In my free time, I make small programs with Python and explore new libraries I haven't used yet to challenge myself!
 
-- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=discord&logoColor=white)]([your-linkedin-url](https://discord.com/users/856298738044895312))
