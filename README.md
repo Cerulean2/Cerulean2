@@ -18,7 +18,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me:
  :telescope: I'm a student learning more about Python and other programming languages
 
  :seedling: Exploring modern Cybersecurity practices and applications
