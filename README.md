@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
   
  <div id="badges">
-  <a href="https://discord.com/users/856298738044895312">
     <img src="https://komarev.com/ghpvc/?username=Cerulean2&style=flat-square&color=blue" width="140" alt=""/>
   </a>
   
