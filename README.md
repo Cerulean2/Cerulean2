@@ -17,7 +17,7 @@
 ---
 
 ### 💻 About Me:
- 🐍 I'm a student learning more about Python and other programming languages
+ 🐍 I'm a College student learning more about Python and other programming languages
 
  🌐 Exploring modern Cybersecurity practices and applications
 
